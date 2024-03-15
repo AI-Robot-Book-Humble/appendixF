@@ -1,4 +1,4 @@
-# 付録B　アクション通信
+# 付録B　アクション通信（Humble版）
 ## 概要
 付録Bアクション通信のサンプルプログラム．ソースコードは以下のChapter2 happy_actionを参照してください．
 - [アクション通信のサンプルプログラム](https://github.com/AI-Robot-Book/chapter2/tree/master/happy_action)
